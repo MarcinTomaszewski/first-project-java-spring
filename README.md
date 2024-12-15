@@ -48,7 +48,7 @@ public String hello() {
 3. **`public String hello()`**:
     - Definiuje metodę `hello` zwracającą obiekt typu `String`.
 4. **`return "Hello Vistula, in my first Spring controller.";`**:
-    - Zwraca statyczny tekst jako odpowiedź HTTP. W tym przypadku nie korzystamy z mechanizmu widoków – odpowiedź jest przesyłana bezpośrednio do użytkownika.
+    - Zwraca statyczny tekst jako odpowiedź HTTP. W tym przypadku nie ma widoku.
 
 ---
 
